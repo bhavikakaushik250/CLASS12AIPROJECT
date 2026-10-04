@@ -405,7 +405,7 @@ def safety_check(message):
     return any(p in text for p in phrases)
 
 
-```python
+
 def safety_response():
     responses = [
         (
