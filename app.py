@@ -1479,7 +1479,7 @@ with tab_comfort:
 
     st.subheader("🌸 Memory Match")
 
-     st.write(
+    st.write(
         "Double-click a card to reveal it and find its match!"
      )
 
